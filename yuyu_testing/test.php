@@ -65,3 +65,6 @@ try{
 // Output the Json code
 //echo json_encode($result->FullCountryInfo);
 ?>
+<!doctype html>
+<html>
+</html>
